@@ -21,5 +21,5 @@ Voila! Your site should be live at https://{username}.github.io
 
 ## Licence
 
-MIT License © Ram Simran G
+MIT License © Ram Simran Garimella
 
