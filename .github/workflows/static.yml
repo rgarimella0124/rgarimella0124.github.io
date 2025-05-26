@@ -44,7 +44,7 @@ jobs:
         env:
           TOKEN: ${{ secrets.GH_PAT }}
         run: |
-          git push https://x-access-token:${TOKEN}@github.com/rgarimella0124/YOUR-REPO-NAME.git
+          git push https://x-access-token:${TOKEN}@github.com/rgarimella0124/rgarimella0124.github.io.git
 
   deploy:
     needs: commit
